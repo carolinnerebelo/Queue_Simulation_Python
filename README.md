@@ -55,9 +55,11 @@ queue_simulation/
 │   │-- scenarios.py    # Different scenarios configurations
 │   │-- config.py       # Global variables
 │-- README.md           # Project documentation
+```
 
 ## Expected Output
 The program prints the average time in the system and the standard deviation for each scenario:
+
 ```
 {'Scenario': 'Deterministic', 'Average time': X.XX, 'Standard Deviation': Y.YY}
 {'Scenario': 'Uniform', 'Average time': X.XX, 'Standard Deviation': Y.YY}
